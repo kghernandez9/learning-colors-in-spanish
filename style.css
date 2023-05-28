@@ -1,0 +1,52 @@
+/*Change all background pages to pink color.*/
+*{
+    background-color: rgb(201, 125, 125);
+}
+
+/*Change each color using the id to corresponding answer.*/
+#red {
+    color:red;
+}
+
+#blue {
+    color:blue;
+}
+
+#orange {
+    color: orange;
+}
+
+#green {
+    color:green;
+}
+
+#yellow{
+    color:yellow;
+}
+
+/*change ALL titles of color to normal and 10px to the left*/
+.color-title{
+    font-weight: normal;
+    margin-left: 10px;
+}
+
+/*Unordered list bullet points color*/
+ul{
+    color:rgb(255, 255, 255)
+}
+/*'a' hyperlink tag color*/
+a{
+    color: rgb(255, 255, 255);
+}
+
+/*type of font used throughout pages*/
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*change image size*/
+img{
+    height: 200px;
+    width: 200px;
+}
+
